@@ -3,7 +3,7 @@ import React from "react";
 import "./Logo.css"; // Optional, for styling
 
 const Logo = () => {
-  const imageUrl = "https://cdn.vanderbilt.edu/vu-web/medschool-wpcontent/sites/5/2019/11/20110210/ASPIRE-Rings-Circle-for-ASPIRE-ON-1.png"; // External image URL
+  const imageUrl = "https://iconape.com/wp-content/png_logo_vector/aspire-zone-logo.png"; // External image URL
 
   return (
     <div className="logo-container">
